@@ -131,6 +131,10 @@ The application uses the following LLM settings (configurable in `app.py`):
 
 
 
+https://github.com/user-attachments/assets/04d62d9a-9baf-488f-954d-4b92c94b61cd
+
+
+
 ## API Endpoints
 
 ### POST /port_legacy_cpp
