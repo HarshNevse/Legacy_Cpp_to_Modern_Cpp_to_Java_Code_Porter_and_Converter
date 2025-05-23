@@ -1,6 +1,6 @@
 # Legacy C++ to Modern C++ to Java Code Porter and Converter
 
-A web-based application that intelligently converts C++ code to Java using AI-powered language models. The tool supports both legacy C++98 code (with automatic modernization to C++11+) and direct conversion from modern C++ to Java.
+An application that intelligently converts C++ code to Java using AI-powered language models. The tool supports both legacy C++98 code (with automatic modernization to C++11+) and direct conversion from modern C++ to Java.
 
 ## Table of Contents
 
